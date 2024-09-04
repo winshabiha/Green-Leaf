@@ -18,7 +18,7 @@ nav ul{
     display: flex;
     justify-content: space-between;
     background-color: #fff9ea;
-    padding: 0 140px;
+    padding: 20px 140px;
     align-items: center;
 }
 .icon{
@@ -65,3 +65,119 @@ nav ul{
     text-align: center;
     
 }
+/* popular menu style */
+.food-menu{
+    /* width: 1150px;
+    height: 650px; */
+}
+.food-images{
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    /* justify-content: space-around; */
+    padding: 0 80px;
+    
+    
+    
+}
+.food{
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 15px 15px 0 0 
+    
+}
+
+.food-icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+    
+.food-name{
+    text-align: center;
+    box-shadow: 2px 2px 5px #e9e9e9; 
+    margin-bottom: 50px;
+}
+/* testimonial style */
+
+.down-image{
+    position: relative;
+    bottom:35px ;
+    display: flex;
+}
+.image-2{
+    position: relative;
+    right: 25px;
+}
+/* comment section style */
+.testimonial{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 40px;
+    overflow: hidden;
+}
+.what-the-say{
+    background-color: #f1f1f1;
+    padding: 20px 15px;
+    border-radius: 15px;
+    width: 400px;
+}
+.comment-main{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+.comment-container{
+    margin-left: 30px;
+}
+
+/* cta style */
+.cta{
+    margin-left: 50px 80px;
+}
+.background{
+    position: relative;
+    height: auto;
+    width: auto;
+    align-items: center;
+     margin: 0 50px;
+}
+.middle{
+    
+    position: absolute;
+    top: 130px;  
+    left: 400px;
+    color: #e9e9e9;    
+}
+/* footer style */
+footer{
+    margin: 40px 30px ;
+    
+    /* height: 100px;
+    width: 300px; */
+}
+.last-section{
+    background-image: url(/images/bg-image.png);
+    height: 200px;
+    padding: 90px 70px;
+    
+}
+.all-footer-element{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.footer-icons{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.hold{
+    margin-top: 15px;
+    gap: 10px;
+}
+
+
+
+
