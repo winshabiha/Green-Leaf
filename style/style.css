@@ -66,10 +66,7 @@ nav ul{
     
 }
 /* popular menu style */
-.food-menu{
-    /* width: 1150px;
-    height: 650px; */
-}
+
 .food-images{
     display: flex;
     gap: 15px;
@@ -152,9 +149,7 @@ nav ul{
 /* footer style */
 footer{
     margin: 40px 30px ;
-    
-    /* height: 100px;
-    width: 300px; */
+   
 }
 .last-section{
     background-image: url(/images/bg-image.png);
