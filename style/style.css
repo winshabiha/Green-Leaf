@@ -37,7 +37,7 @@ nav ul{
 }
 /* hero section */
 .hero-section{
-    background-image: url(/images/shapes.png);
+    background-image: url(../images/shapes.png);
     height: 600px;
     background-size: contain;
     padding: 12px, 140px;
@@ -151,7 +151,7 @@ footer{
    
 }
 .last-section{
-    background-image: url(/images/bg-image.png);
+    background-image: url(../images/bg-image.png);
     height: 200px;
     padding: 90px 70px;
     
